@@ -2,6 +2,8 @@
 
 [![assets](https://img.shields.io/badge/docs-assets-555?style=flat)](ASSETS.md)
 
+![Bad Apple cover with the string equation and a character on a broom](cover.png)
+
 BadString turns a black-and-white video into an animation of two strings that vibrate. It includes renders of Bad Apple!! and small string experiments
 
 ## Mathematical model
